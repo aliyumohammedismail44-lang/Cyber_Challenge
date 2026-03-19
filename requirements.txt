@@ -1,3 +1,0 @@
-flask
-flash-socketio
-eventlet
